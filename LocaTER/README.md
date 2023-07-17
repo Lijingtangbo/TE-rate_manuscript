@@ -49,5 +49,3 @@ Rscripts from_features_to_genotypes_v2.R \
 ${Feature} \
 ${Genotypes}
 ```
-
-```
