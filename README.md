@@ -1,2 +1,3 @@
-# TE-rate_manuscript
-A bovine GWAS reveals determinants of mobilization rate and dynamics of endogenous retroviruses
+# For manuscript
+GWAS reveals determinants of mobilization rate and dynamics of an active endogenous retrovirus of cattle
+
